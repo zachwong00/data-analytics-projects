@@ -1,4 +1,4 @@
-# Glo.Health Marketing Insights
+# glo.health Marketing Insights
 
 ## Project Goal
 
