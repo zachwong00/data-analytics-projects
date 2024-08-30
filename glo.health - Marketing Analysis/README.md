@@ -1,7 +1,7 @@
 # glo.health Marketing Insights
 
 ## Project Goal
-Examine the performance of marketing campaigns at Row Health to surface recommendations on marketing budget allocation across future campaign categories.
+Examine the performance of marketing campaigns at glo.health to surface recommendations on marketing budget allocation across future campaign categories.
 
 ## Business Objectives & Tasks
 glo.health, in 2019, launched a series of marketing campaigns such as health awareness, wellness guidelines, affordability of their plans and preventative care.
