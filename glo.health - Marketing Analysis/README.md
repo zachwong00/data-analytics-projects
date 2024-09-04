@@ -41,7 +41,7 @@ _Targeted Insights for the Claims department can be viewed [here]() using SQL._
 - Overall, #CoverageMatters stands out with consistently higher claim amounts compared to other campaigns, especially from 2021 onwards. However, #HealthyLiving and Health For All also show significant activity, though at a lower level compared to #CoverageMatters.
 
 ## Recommendations & Next Steps
-- **Prioritize High-Performing Campaigns:** Recommend to reallocate budget from Golden Years Security and/or #HealthlyLiving to Health For All campaign category or increase its budget by 15-20%, given the strong performance in its marketing efforts. 
+- **Prioritize High-Performing Campaigns:** Recommend to reallocate budget from Golden Years Security (due to high costs) and/or #HealthlyLiving to Health For All campaign category or increase its budget by 15-20%, given the strong performance in its marketing efforts. 
 - **Reevaluate Low-Performing Campaigns & Platforms:** Decrease investments into #HealthyLiving category, which had the highest spendings ($6.7K) but returns a relatively low signup rate. Reconsider investments for TV platforms as well, which showned poor performance in all key metrics; evaluate either to further decrease spendings or complete abandonement of the platform.
 - **Expand Email Marketing for Engagement**: Experiment with A/B testing to half of the customers with 15-20% more emails for 30 days. Compare the metrics at the end of the test if there are significant increases.
 - **Covid-type Campaigns:** Investigate Covid Awareness types of campaigns due to its abnormal high costs yet low signups. Consider stopping campaigning altogether in this area partly due to current low Covid search trends as well.
