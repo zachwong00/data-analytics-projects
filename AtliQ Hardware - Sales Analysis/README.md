@@ -34,9 +34,9 @@ Click [here](https://public.tableau.com/views/SalesAnalysis_17246768340420/Dashb
 
 ## Recommendations & Next Steps
 1. **Sales Reassessments:** Focus on improving profit margins in high-revenue markets like Delhi NCR and Mumbai by optimizing costs or adjusting pricing strategies. Investigate the reasons for negative profit margins in Kanpur and Bengaluru, develop targeted sales tactics, mitigation plans or retreat from these markets to address the bleeding profits.
-2. 
-3. **Markets Investment:** Potentially increase budget investments in markets like Surat, Patna & Bhubaneswar, which are showing the highest profit margins. Invest in expanding market presence, increasing product availability, and enhancing customer service in these regions to capitalize on their profitability.
-4. 
-5. **Client-specific Strategies:** Electricalsara Stores, while being the top revenue contributor, may not be the most profitable. Develop tailored strategies for such clients, like upselling premium products or services, offering loyalty programs, or optimizing the product mix to improve profitability. Identify and nurture mid-tier clients with high growth potential to diversify revenue sources.
-6. 
-7. **Hardware Portfolio Management:** Examine the profitability of Prod040 and other top-selling products, if they are contribute to high profit margins. Consider streamlining the hardware portfolio by phasing out low-margin products by focusing on high-margins, high-demand hardwares.
+   
+2. **Markets Investment:** Potentially increase budget investments in markets like Surat, Patna & Bhubaneswar, which are showing the highest profit margins. Invest in expanding market presence, increasing product availability, and enhancing customer service in these regions to capitalize on their profitability.
+   
+3. **Client-specific Strategies:** Electricalsara Stores, while being the top revenue contributor, may not be the most profitable. Develop tailored strategies for such clients, like upselling premium products or services, offering loyalty programs, or optimizing the product mix to improve profitability. Identify and nurture mid-tier clients with high growth potential to diversify revenue sources.
+ 
+4. **Hardware Portfolio Management:** Examine the profitability of Prod040 and other top-selling products, if they are contribute to high profit margins. Consider streamlining the hardware portfolio by phasing out low-margin products by focusing on high-margins, high-demand hardwares.
