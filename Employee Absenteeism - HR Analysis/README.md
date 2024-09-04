@@ -23,13 +23,13 @@ Click [here](https://public.tableau.com/views/HRAbsenteeismDashboard_17233866684
 
 ## Recommendations & Next Steps
 1. **Health-Check Programs**
-    - Create targeted health and wellness initiatives to focus on physical health awareness, conduct health screenings and weight management for employees.
+    - Create targeted health and wellness initiatives to focus on physical health awareness, conduct health screenings and weight management for employees to reduce health-related absenteeism and assist in managing their health status.
 2. **Implement flexible working arrangements**
     - Introduce flexible work hours or remote work options to employees, especially on Mondays to combat high absenteeism at the start of the week.
-    - Consider a 4-day in-office work arrangement as pilot test to see if this impacts absenteeism positively.
+    - Consider a 4-day in-office work arrangement as pilot test for one fiscal quarter, compare KPIs and HR metrics to see if this impacts absenteeism positively.
 3. **Workload Distribution** 
-    - Analyze and adjust workload distribution with relevant departments, particularly for roles with higher absenteeism to prevent burnout.
-    - Monitor and manage workloads to ensure employees are not overburdened with quarterly anonymous HR survey, as higher workloads correlate with higher absenteeism.
+    - Analyze and adjust workload distribution by engaging further with relevant departments, particularly for working roles with higher absenteeism to prevent burnout.
+    - Conduct a quarterly anonymous HR survey to receive employees' workload amount and ratings, as higher workloads correlate with higher absenteeism.
 4. **Seasonal Adjustments**
-    - Consider adjusting work schedules or providing additional support during peak months, such as March and July by implementing workload balancing strategies.
-    - Suggest aligning leave policies with seasonal absenteeism trends, potentially offering more work flexibility during peak absenteeism months
+    - Consider adjusting work schedules or providing additional support during peak months, such as March and July by implementing workload balancing strategies. Investigate further into the factors leading to the high absenteeism levels for those specific months.
+    - Suggest aligning leave policies with seasonal absenteeism trends, potentially offering more work flexibility during peak absenteeism months.
