@@ -1,10 +1,10 @@
-# Project 3: HR Absenteeism Analysis
+# Employee Absenteeism - HR Insights
 
 ### Project Goal
 Investigate the absenteeism of employees with a provided dataset from HR in order to surface recommendations on minimizing absenteeism.
 
 ## Business Objectives & Tasks
-The HR team are planning to strategize their allocated budget, and would like to understand the organization's employee absence rates and how they could achieve **(1)lower absenteeism levels** and **(2)implement appropriate employee wellness programs.**
+The HR team are planning to optimize their allocated budget, and would like to understand the organization's employee absence rates and how they could achieve **(1)lower absenteeism levels** and **(2)implement appropriate employee wellness programs.**
 
 As the data analyst within the organization, the HR team assigned a few tasks for the analyst:
 1. Provide a list of healthy and low absenteeism individuals for the organization's wellness bonus program.
