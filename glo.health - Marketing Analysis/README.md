@@ -35,7 +35,8 @@ Click [here](https://public.tableau.com/views/glo_health/Dashboard?:language=en-
 - Based on platforms, Email had 2x more CTR than Social media and SEO, at 16.64% overall. Within Email, Health For All campaign drove the highest CTR (49.26%).
   
 **Claims Overview**
- _Targeted Insights for the Claims department can be viewed [here]() using SQL._
+
+_Targeted Insights for the Claims department can be viewed [here]() using SQL._
 - Across categories, #CoverageMatters had the the highest claim amount ($1.47M) from customers, while Golden Years Security the lowest at $10K. Interestingly, both campaigns had similar average claim amount at $134 and $136 respectively.
 - Overall, #CoverageMatters stands out with consistently higher claim amounts compared to other campaigns, especially from 2021 onwards. However, #HealthyLiving and Health For All also show significant activity, though at a lower level compared to #CoverageMatters.
 
