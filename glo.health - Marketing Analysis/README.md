@@ -6,7 +6,7 @@ Examine the performance of marketing campaigns at glo.health to surface recommen
 ## Business Objectives & Tasks
 glo.health, in 2019, launched a series of marketing campaigns such as health awareness, wellness guidelines, affordability of their plans and preventative care.
 
-glo.health has hired a data analytics team and strategizing their marketing budget for the year. The budget is allocated to drive two main objectives: **1) to increase the number of customer signups**, and **2) to raise awareness of glo.health’s brand across the country**. 
+glo.health has hired a data analytics team and would like to strategize their marketing budget for the following year. The budget is allocated to drive two main objectives: **1) to increase the number of customer signups**, and **2) to raise awareness of glo.health’s brand across the country**. 
 
 The task is divided into two sections:
 - Generate targeted insights from the reimbursement program for the Claims department.
