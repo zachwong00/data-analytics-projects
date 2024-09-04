@@ -25,6 +25,7 @@
 - Kimberly Meader (52 claims)
 - Charles Black (52 claims)
 - Robert Torres (52 claims)
+
 The combined claimed amount: $18.3K
 
 ### Q6: Overall average number of days between claims for customers with more than one claim
