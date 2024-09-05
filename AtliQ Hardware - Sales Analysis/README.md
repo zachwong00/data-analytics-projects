@@ -1,11 +1,12 @@
-# AtliQ Hardware Supplies - Product Sales Insights
+# AtliQ Hardware - Product Sales Insights
 
 ### Project Goal
-To determine the sales performance at AtliQ Hardware Supplies with the aim to uncover insights on the declining sales and recommendations for strategies to increase future revenue and profitability. 
+To examine the sales performance at AtliQ Hardware with the aim to uncover insights on the declining sales and surface recommendations to increase future revenue and profitability. 
 
 ## Business Objectives & Tasks
+AtliQ Hardware specialises in supplying computer hardware and peripherals to various store clients. They are based in India, with a head office in Delhi with regional offices across the country.
 
-The Sales Director would like to understand the company's overall sales performance of its computer hardwares in order to **(1) refine sales approach in high and low performing markets** and **(2) optimize budget of the company.**
+The Sales Director would like to understand the company's overall sales performance of its computer equipments in order to **(1) refine sales approach in high and low performing markets** and **(2) optimize budget of the company.**
 
 The director has approach the data analyst for completing a few tasks:
 - Conduct a detailed analysis to break down incoming revenue by markets, month, and year.
