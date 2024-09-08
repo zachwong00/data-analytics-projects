@@ -21,6 +21,7 @@ Click [here](https://public.tableau.com/views/SalesAnalysis_17246768340420/Dashb
 ## Insights
 **Revenue & Profit Trend** 
 - Recent performance indicated decline in revenue and profits, especially in 2020 Q2, at an all-time low for the company.
+- Overall, from 2017 to 2020, there is a 32.4% revenue drop and 67.57% profit decline over the period.
   
 **Markets Performance**
 - Cities like Delhi NCR (R:520.78 M; P:2.30%) and Mumbai (R:150.18 M; P:3.25%) are the top revenue streams for the company, but generate relatively low profit margins.
