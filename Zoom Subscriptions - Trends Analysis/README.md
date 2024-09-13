@@ -30,14 +30,14 @@ Insights are extracted based on these key metrics and dimensions: **subscription
 - Evidently, all spikes seen contributed to the sales for the Enterprise subscription plan. 
 
 ## Recommendations & Next Steps
-**1.Optimize Strategies for Subscription Plan Type**
+**1. Optimize Strategies for Subscription Plan Type**
 - Investigate further with the drop-off with Business subscription plan, whether a new competitor is present in the market or an issue with the plan (pricing or features adjustments required to improve and retain subscriptions)
 - The Pro subscription plan showed consistent strong sales performance, continue promoting this plan with exclusive deals.
 - Investigate why Enterprise plans exhibit a steep dip in the middle of the year and expand this analysis to include additional years to examine whether this trend is speicifically COVID-related or consistent across time. Consider if implementing a product feature could combat this dip.
 
-**2.Leverage Yearly Subscriptions**
-- Yearly plans have a dominant share and steady performance. Enhance benefits (e.g., free 1-month trial, discounts or extended support) to encourage more annual subscription commitments.
+**2. Leverage Yearly Subscriptions**
+- Yearly plans have a dominant share and steady performance. Enhance its benefits (e.g., free 1-month trial, discounts or extended support) to encourage more annual subscription commitments.
 
-**3.Region Targets**
+**3. Region Targets**
 - With the NA region showing best performance, prioritize marketing efforts and campaigns in this region to maintain and expand its customer base.
 - The EMEA region showed the most volatility - investigate whether there are features or targeted promotions that could stabilize this region's subscriptions and sales.
