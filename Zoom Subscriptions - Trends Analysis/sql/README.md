@@ -55,7 +55,7 @@ As for 2021, the highest amount of subscribers (10.3K subs) and revenue growth (
 
 ### Q8: Total Sales and Number of Subscribers by Year and Plan
 | Year    | Plan Type   | Sales    | Subscribers |
-| ------- |:-----------:| --------:| -----------:|
+| ------- | ----------- | -------- | ----------- |
 | 2021    | Pro         | $5.57M   | 94.7K       |
 | 2020    | Pro         | $5.42M   | 87.8K       |
 | 2021    | Enterprise  | $3.36M   | 3.86K       |
@@ -65,7 +65,7 @@ As for 2021, the highest amount of subscribers (10.3K subs) and revenue growth (
 
 ### Q9: Who are the Subscribed users with the highest price for each plan type and period?
 | User ID   | Plan Type   | Plan Period    | Price |
-| ------- |:-----------:| --------:| -----------:|
+| ------- | ----------- | -------- | ----------- |
 | 120142089	| Business | Month | 454.3 |
 | 122404032	| Pro |	Year | $120 |
 | 160924164	| Pro	| Month	| $1.2K |
