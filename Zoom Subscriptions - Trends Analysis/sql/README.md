@@ -50,7 +50,8 @@ The APAC Region (Western Asia, Eastern Asia, Polynesia, Southern Asia, South Eas
 | South East Asia | $156.50       | 2020, Q2 |
 
 ### Q7: Monthly New Subscribers and Revenue Growth
-For 2020, the month of May saw the highest subscribers (11.6K users) while highest revenue growth was in March (200.3% increase)
+For 2020, the month of May saw the highest subscribers (11.6K subs) while highest revenue growth was in March (200.3% increase)
+
 As for 2021, the highest amount of subscribers (10.3K subs) and revenue growth (16.34% increase) occured in March.
 
 ### Q8: Total Sales and Number of Subscribers by Year and Plan
@@ -66,14 +67,14 @@ As for 2021, the highest amount of subscribers (10.3K subs) and revenue growth (
 ### Q9: Who are the Subscribed users with the highest price for each plan type and period?
 | User ID   | Plan Type   | Plan Period    | Price |
 | ------- | ----------- | -------- | ----------- |
-| 120142089	| Business | Month | 454.3 |
+| 120142089	| Business | Month | $454 |
 | 122404032	| Pro |	Year | $120 |
 | 160924164	| Pro	| Month	| $1.2K |
 | 117984323	| Enterprise | Year | $90K |
 | 134468209	| Enterprise | Year	| $90K |
 | 115059654	| Pro	|	Year 	| $120 |
-| 106814347	| Business |	Year | $779.98 |
-| 120980938	| Enterprise |	month	| $3.35K |
+| 106814347	| Business |	Year | $779 |
+| 120980938	| Enterprise |	Month	| $3.35K |
 | 124030270	| Pro	|	Year | $120 |
 | 118542542	| Pro	| Year | $120 |
 | 122836742	| Pro	| Year | $120 |
