@@ -131,3 +131,28 @@ GROUP BY
 ORDER BY 
 	3 DESC, 
 	4 DESC
+
+/* Q9: Who are the Subscribed users with the highest price for each plan type and period? */
+-- CTE: Max prices within each plan type and period 
+WITH maxprice AS (
+SELECT 
+	PLAN,
+	PERIOD,
+	MAX(PRICE_REVISED) AS price
+FROM 
+	zoomsubs.zoomsubs_clean
+GROUP BY
+	1,2)
+-- Main Query: Finding user_id that matched with the max price plan and period
+SELECT 
+	zc.USER_ID,
+	zc.PLAN,
+	zc.PERIOD,
+	zc.PRICE_REVISED AS sub_price
+FROM 
+	zoomsubs.zoomsubs_clean AS zc
+JOIN -- inner join only users that fit maxprice's table values
+	maxprice AS mp
+	ON zc.PLAN = mp.PLAN
+	AND zc.PERIOD = mp.PERIOD
+	AND zc.PRICE_REVISED = mp.price;
