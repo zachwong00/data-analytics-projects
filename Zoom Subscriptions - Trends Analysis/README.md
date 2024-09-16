@@ -3,6 +3,9 @@
 Discover Zoom's subscription and in turn, sales performance between 2020 to 2021, surfacing appropriate recommendations for future actions.
 
 ## Project Objective & Tasks
+Zoom Video Communications, Inc. is a communications technology company founded in 2011 that offers its main video-conferecing application for users. During the COVID-19 pandemic, Zoom usage increased substantially - being the 5th most downloaded mobile app in 2020. 
+
+This project delves into Zoom's subscription records to ensure future commercial success, the tasks include:
 - Analyze and understand Zoom subscription trends from 2020-2021.
 - Extract Targeted insights to evaluate subscriptions and sales/revenue performance. 
 
